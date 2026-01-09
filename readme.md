@@ -57,5 +57,3 @@ A sample API test project using Karate (BDD). Tests live in the `demo` module, e
 - JSON artifacts:
   - `demo/target/karate-reports/karate-summary-json.txt`
   - `demo/target/karate-reports/<feature>.karate-json.txt`
-
-If you want, I can add this README.md file to the project now.
